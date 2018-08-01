@@ -30,7 +30,7 @@ class ComingSoon extends Component {
       <div className="coming-soon">
         <img src={logo} alt="alianlab logo"/>
         <h1>alienlab</h1>
-        <h6>Coming soon{this.renderDots()}</h6>
+        <h6><span>Coming soon{this.renderDots()}</span></h6>
       </div>
     );
   }
