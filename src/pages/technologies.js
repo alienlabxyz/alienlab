@@ -24,6 +24,15 @@ const TechnologiesPage = () => (
                         <p>Vue</p>
                     </Segment>
                     <Segment>
+                        <p>Bootstrap 4</p>
+                    </Segment>
+                    <Segment>
+                        <p>Semantic UI</p>
+                    </Segment>
+                    <Segment>
+                        <p>Material UI</p>
+                    </Segment>
+                    <Segment>
                         <p>SASS</p>
                     </Segment>
                     <Segment>
@@ -120,7 +129,7 @@ const TechnologiesPage = () => (
         <Grid.Column>
             <Segment.Group>
                 <Segment>
-                    <p>Devops</p>
+                    <p>DevOps</p>
                 </Segment>
                 <Segment.Group>
                     <Segment>
